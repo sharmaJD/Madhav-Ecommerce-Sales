@@ -4,9 +4,10 @@
 The owner of the Madhav E-Commerce store wants us to create an interactive dashbaord to track and analyze their online sales across India.
 
 # Dashboard
+<img width="657" alt="madhav" src="https://github.com/sharmaJD/Madhav-Ecommerce-Sales/assets/112079465/d9f46ca3-36ab-4c28-835f-fd8a042fb81f">
 
 
-#Project Insight
+# Project Insight
 -Most of the customers spent the maximum amounts of money on purchasing products like clothing(63%), Electronics(21%) and furniture-including Bookcases, Tables, etc)(17%)
 -The store generates the maximun=m profits from the months January, March, and October.
 -They made highest profit from printer and cases.
